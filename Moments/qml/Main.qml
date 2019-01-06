@@ -184,7 +184,7 @@ App {
 
                       if(!rect.actionPage){
                           mapModel.append({lat : coord.latitude, longi: coord.longitude, c: altColor(rect.speciesColor), r: altRadii(rect.speciesSize), s: altSpecies(rect.speciesName)
-                                          ,giv: "", recv: "", eLat: -1, eLong: -1, o: 1});
+                                          ,giv: "", recv: "", eLat: -1, eLong: -1});
                           page.title = "Select New Animal or Move To Action Stage"
                       }
                       else{
@@ -510,7 +510,7 @@ App {
 
           Rectangle {
               id:comboBox
-              property variant items: ["Red-Lion", "Green-Elephant", "Blue-Hartebeest", "Magenta-Zebra", "Steel Blue-T.Gazelle", "Yellow-Warthog", "Black-Topi"]
+              property variant items: ["Red-Lion", "Green-Elephant", "Blue-Hartebeest", "Magenta-Zebra", "S. Blue-Gazelle", "Yellow-Warthog", "Black-Topi"]
 
               signal comboClicked;
               x: 0
