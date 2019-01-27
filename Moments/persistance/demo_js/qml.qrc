@@ -1,7 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>main.qml</file>
-        <file>JSONListModel.qml</file>
-        <file>jsonpath.js</file>
-    </qresource>
-</RCC>
