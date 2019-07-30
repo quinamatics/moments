@@ -9,7 +9,7 @@ This tool was written entirely in QML and tested through Qt Creator, although I 
 
 The full version of Moments is projected to be released in late-summer 2019; in the meantime, contact me at brandonznyc@gmail.com for software demos, consulting sessions, and/or testing instructions. 
 
-# Interactive UI from Start to Finish
+# Interactive UI from Start to Save
 
 Moments's most valuable concept is its easy-of-use. There are no selection or input screens -- all of the data input occurs in the centralized map page. Built using an ESRI-supported backend, Moments offers the complete set of map tools and features, giving researchers full control over:
 
