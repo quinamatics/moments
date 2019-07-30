@@ -11,7 +11,7 @@ The full version of Moments is projected to be released in late-summer 2019; in 
 
 # Interactive UI from Start to Save
 
-Moments's most valuable concept is its easy-of-use. There are no selection or input screens -- all of the data input occurs in the centralized map page. Built using an ESRI-supported backend, Moments offers the complete set of map tools and features, giving researchers full control over:
+Moments's most valuable concept is its ease-of-use. There are no selection or input screens -- all of the data input occurs in the centralized map page. Built using an ESRI-supported backend, Moments offers the complete set of map tools and features, giving researchers full control over:
 
 1) Map Selection: We allow users to choose from political, physical, and contour map baselayers during setup.
 2) Data Input: User-inputted data is stored as geographical coordinates, which are also displayed on their screens as a ESRI geospatial reference. 
