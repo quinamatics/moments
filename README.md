@@ -28,9 +28,9 @@ In addition to supporting individual data points, Moments also allows for data p
 
 Moments offers unparalleled support for a research organization's entire data collection and usage pipeline, as it has been actively trialled and refined in active field research in two locations in Kenya's national parks and conservancies. When an organization partners with Moments, they receive:
 
-1)Visual-based data collection tool effective regardless of user language or educational background
-2)Unique data organization structure based on elements and fields; allows for easy separation and cleaning of data
-3)Offline analysis channels, from traditional spreadsheet format to purely visual map-based. 
-4)Easy export features to desktop or mobile camera roll, for further numerical analysis or direct inclusion into presentation format
-5)Frequent communication and consultation with developer (me!) regarding Moments usage strategy, training, and future directions.
+1) Visual-based data collection tool effective regardless of user language or educational background
+2) Unique data organization structure based on elements and fields; allows for easy separation and cleaning of data
+3) Offline analysis channels, from traditional spreadsheet format to purely visual map-based. 
+4) Easy export features to desktop or mobile camera roll, for further numerical analysis or direct inclusion into presentation format
+5) Frequent communication and consultation with developer (me!) regarding Moments usage strategy, training, and future directions.
      
