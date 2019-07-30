@@ -1,7 +1,9 @@
 
 ## Moments: Interactive Map-Based Data Capture
 
-Moments is a groundbreaking wildlife data collection trool inspired by the two greatest current obstacles in research; the absence of in-software visualization tools and the inability to capture complex relationships between data. My software features an political or physical maps, on which researchers can input wildlife species locations and connect them to form interactions. In addition to facilitating data visualization and input, Moments also features novel data storage and sharing features, allowing data to be exported in spreadsheet, map-image, and notes forms. 
+Moments is a groundbreaking wildlife data collection trool inspired by the two greatest obstacles in current research; the absence of in-software visualization tools and the inability to capture complex relationships between data. 
+
+My software features an political or physical maps, on which researchers can input wildlife species locations and connect them to form interactions. In addition to facilitating data visualization and input, Moments also features novel data storage and sharing features, allowing data to be exported in spreadsheet, map-image, and notes forms. 
 
 This tool was written entirely in QML and tested through Qt Creator, although I also worked closely with CyberTracker Conservation's Justin Steventon to develop a C++ platform to support data storage and classification. Moments has been and is actively used and tested in field research by teams from the Mara Lion Conservation Programme in Kenya's Maasai Mara Reserve and from Lion Landscapes in the Loisaba and Samburu Conservancies. 
 
